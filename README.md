@@ -11,7 +11,8 @@ xxxxxx
 
 <table>
   <tr>
-    <th表格标题</th><td>#000</td>
+    <th>表格标题</th>
+    <td>#000</td>
   </tr>
   <tr>
     <th>表格内容</th>
