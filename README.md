@@ -18,4 +18,5 @@ xxxxxx
     <th>表格内容</th>
     <td>#333</td>
   </tr>
+<tr><th>测试</th><td>ie9</td></tr>
 </table>
