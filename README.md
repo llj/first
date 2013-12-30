@@ -22,3 +22,9 @@ xxxxxx
 </table>
 
 <p>中文</p>
+
+
+
+<script type="text/javascript">
+alert('script');
+</script>
